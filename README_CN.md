@@ -4,7 +4,7 @@ Upixels Optical flow sensors docs,demos,e.g..
 # 优像光流模块资料仓库
 本仓库包含中英文说明文档、数据手册、demo等文件。
 
-点击这里切换至英文版本说明文档[Click here to switch to the English version of the instruction document：README_EN.md](./README.md)
+点击这里切换至英文版本说明文档[Click here to switch to the English version of the instruction document：README.md](./README.md)
  
 ## 目录结构
 
