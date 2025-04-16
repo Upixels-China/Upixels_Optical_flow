@@ -4,7 +4,7 @@ Upixels Optical flow sensors docs,demos,e.g..
 # Upixels Optical Flow Module Data Warehouse
 This warehouse contains documentation in both Chinese and English, data manuals, demos, and other files.
 
-点击这里切换至中文版本说明文档[Click here to switch to the Chinese version of the instruction document：README.md](./README.md)
+点击这里切换至中文版本说明文档[Click here to switch to the Chinese version of the instruction document：README_CN.md](./README_CN.md)
  
 ## Directory Structure
 
