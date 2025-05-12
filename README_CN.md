@@ -4,6 +4,8 @@ Upixels Optical flow sensors docs,demos,e.g..
 # 优像光流模块资料仓库
 本仓库包含中英文说明文档、数据手册、demo等文件。
 
+特别说明：有部分客户在飞控上使用LC302光流驱动无法正常使用的话，请检查模块PCB板上的丝印是否为LC-302-3C，如果是LC-302-8B请使用LC306的光流驱动，LC302-8B与LC306同样需要初始化才能正常工作。
+
 点击这里切换至英文版本说明文档[Click here to switch to the English version of the instruction document：README.md](./README.md)
  
 ## 目录结构
